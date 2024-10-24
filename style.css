@@ -1,0 +1,18 @@
+BODY{
+    COLOR:LIGHTBLUE;
+    BACKGROUND: BROWN;
+    MARGIN: OPX;
+}
+
+
+HEADER{
+    BORDER-BOTTER: SOLID 2PX RGB(42,122,228);
+    PADDING: 20PX;
+    font-size: 32px;
+    color:RGB(42,122,228);
+}
+
+section{
+    background: rgb(184,156,213);
+}
+
